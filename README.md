@@ -1,7 +1,15 @@
-# Welcome to my webpage!
+# Welcome to My Webpage!
 
-<h1>Homemade Artisan Bread</h1>
-<span>This homemade bread is low sodium, no oil, healthy alternative to mass prodiuced store bread</span>
+<h1>About Me</h1>
+
+<p>I am using this website to post simple projects I am working on</p>
+
+<h1>Project#1: Homemade Artisan Bread</h1>
+<ul>
+    <li>a simple HTML project to practice using tags</li>
+    <li>a variation of the recipe project using my favorite recipe</li>
+</ul>
+<span>This homemade bread is low sodium, no oil, healthy alternative to mass produced store bread<span>
 
 <h4>Recipe by: Carson Kelly</h4>
 
